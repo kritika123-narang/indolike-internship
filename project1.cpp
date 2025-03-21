@@ -66,7 +66,7 @@ else{
     cout<<"Okay,Thank you\n";
 }
 
-cout<<"\nCongratulations!!!,Your score is : "<<count;
+cout<<"\nCongratulations!!! Your score is : "<<count;
 
     return 0;
 }
